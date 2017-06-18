@@ -9,9 +9,12 @@
 
 "use strict";
 
-var user = "Benutzer1";
+var user = prompt("Bitte gib deinen Namen ein");
 
 if(user == "Benutzer1"){
+  alert ("Herzlich Willkommen " + user + "!");
+}
+if(user == "Benutzer2"){
   alert ("Herzlich Willkommen " + user + "!");
 }
 else {
