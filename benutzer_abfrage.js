@@ -9,7 +9,7 @@
 
 "use strict";
 
-var user = prompt("Bitte gib deinen Namen ein");
+let user = prompt("Bitte gib deinen Namen ein");
 
 if(user == "Benutzer1"){
   alert ("Herzlich Willkommen " + user + "!");
