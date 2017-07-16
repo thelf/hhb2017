@@ -1,0 +1,20 @@
+.default-template {
+  margin-top:56px;
+  padding-top:20px;
+}
+
+.lead {
+  padding-bottom:20px;
+}
+
+.edit {
+  margin-top:20px;
+}
+
+.btn-primary{
+  margin-top:20px;
+}
+
+.edit .input-group{
+  padding:15px 0;
+}
