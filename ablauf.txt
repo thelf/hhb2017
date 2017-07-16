@@ -1,8 +1,0 @@
-Offen
-
-
-Erledigt
-
-1. Bei Programm Start soll ein Eingabefeld im Browser erscheinen, in dem der Name des Benutzers abgefragt wird. Dieser soll in einer Variablen abgespeichert werden
-2. Anschließend soll der Benutzer im Browser eine Willkommens Nachricht mit dem zuvor eingegebenen Namen erhalten.
-
